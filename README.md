@@ -1,3 +1,4 @@
+# REQUERIMIENTOS DE INSTALACION - Busystem
 ## Instalar flask y sus dependencias
 
 Debemos instalar flask y sus dependencias en la carpeta ***Backend***, tener en cuenta que esta carpeta fue creada como un virtual env de python (aunque no es necesario levantar el venv pera que este funcione). Las dependencias a instalar son:

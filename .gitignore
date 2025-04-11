@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MongoDB dump files (opcional)
+dump/
+*.log
+
+# Vite/React
+dist/
+
+# VSCode config
+.vscode/
+
+# Environment files (si usas)
+.env
